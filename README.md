@@ -1,2 +1,2 @@
-# MCBUP
-MBUP - Minecraft World BackUp Script.
+# MCBP
+MCBP - Minecraft World BackUp Script.
